@@ -26,4 +26,10 @@ Run the following command to apply the migrations and create the necessary datab
 php artisan migrate
 ```
 
+### 4. Server
+
+```
+php artisan serve
+```
+
 This will start the development server, and you should see a URL (e.g., http://127.0.0.1:8000) where you can access your application in your web browser.
